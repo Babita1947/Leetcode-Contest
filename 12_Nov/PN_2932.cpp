@@ -1,6 +1,7 @@
+//2932. Maximum Strong Pair XOR I
+
 #include<bits/stdc++.h>
 using namespace std;
-
 class Solution {
 public:
     int maximumStrongPairXor(vector<int>& nums) {
